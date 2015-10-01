@@ -1,2 +1,2 @@
-# krs.-git
+# krs.git
 Krsoft
